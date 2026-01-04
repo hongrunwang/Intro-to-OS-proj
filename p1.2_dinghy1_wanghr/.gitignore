@@ -1,0 +1,4 @@
+.vscode
+*.jar
+**/*.exe
+translator.output

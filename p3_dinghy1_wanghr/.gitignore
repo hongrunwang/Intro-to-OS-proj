@@ -1,0 +1,5 @@
+.vscode
+*.exe
+gbfloat_base
+gbfloat_fast
+test_accuracy
